@@ -522,10 +522,10 @@ async def about_us(msg: Message):
 
     keyboard = InlineKeyboardMarkup(row_width=2)
     keyboard.add(
-        InlineKeyboardButton("👤 Администратор", url="https://t.me/starwebb"),
-        InlineKeyboardButton("💬 Чат", url="https://t.me/+QDcTI221QRgwNzIy"),
-        InlineKeyboardButton("📰 Новостной канал", url="https://t.me/+noTnZbQmYYhmMjIy"),
-        InlineKeyboardButton("🎲 Канал со ставками", url="https://t.me/+6yHQlZaUizQ5ZmMy")
+        InlineKeyboardButton("👤 Администратор", url="https://t.me/Psixoz_dsgn"),
+        InlineKeyboardButton("💬 Чат", url="https://t.me/+HyUZuurI1J1lYTgy"),
+        InlineKeyboardButton("📰 Новостной канал", url="https://t.me/+JZqfUQfoBTdmMjQy"),
+        InlineKeyboardButton("🎲 Канал со ставками", url="https://t.me/+mWRp7c2ejus4MGRi")
     )
 
     await msg.answer_photo(
