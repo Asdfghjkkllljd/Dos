@@ -1,17 +1,17 @@
-CHANNEL_ID = 123123  # Айди канала
-INVOICE_LINK = "https://t.me/send?start=IVDPUVSBls87"  #  Линк на инвойс
-RULES_LINK = "https://t.me/c/2192323057/3"  #  Линк на правила
-NEWS_LINK = "https://t.me/+noTnZbQmYYhmMjIy"  #  Линк польз. соглашения
-SUPPORT_LINK = "https://t.me/starwebb"  #  Линк саппорта
-FAQ_LINK = "https://t.me/c/2192323057/3" # FAQ
-CRYPTO_PAY_TOKEN = "242947:"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
-BOT_TOKEN = "7404473505:-JcPSkOU8PA"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
+CHANNEL_ID = -1002259707695  # Айди канала
+INVOICE_LINK = "https://t.me/send?start=IVNDZT8omLww"  #  Линк на инвойс
+RULES_LINK = "https://t.me/+TLwZWQ3CdA8wZjgy"  #  Линк на правила
+NEWS_LINK = "https://t.me/+JZqfUQfoBTdmMjQy"  #  Линк польз. соглашения
+SUPPORT_LINK = "https://t.me/Psixoz_dsgn"  #  Линк саппорта
+FAQ_LINK = "https://telegra.ph/Polzovatelskoe-soglashenie-TokenBet-06-06" # FAQ
+CRYPTO_PAY_TOKEN = "270737:AAYvdRvpqAMjfA2mIPcXV39MVv4w7c7GWsl"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
+BOT_TOKEN = "7228460124:AAE3OEOG54pOsgSNEjGMpFWDz_lUiTIXguA"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
 SCAM_SUM = 5
 SCAM_SUM_WHEEL = 10
 SCAM_WHEEL = 0
-ADMIN_ID = 5330676613  # Айди админа
-ADMIN_SD = 1452896288
-NEWS_ID = -1002192323057  # Айди канала новостей
+ADMIN_ID = 6859896269  # Айди админа
+ADMIN_SD = 6859896269
+NEWS_ID = -1002335354704  # Айди канала новостей
 VIPLAT_ID = -1002059587052
 min_vivod = 1.1
 xamount_action = False
@@ -25,12 +25,12 @@ timeout = 20
 wheelscum = 0
 kef_kub = 1.85
 kef_suefa = 2.5
-WIN_IMAGE = 'http://i.imgur.com/MqD59nL.jpg'
-LOSE_IMG = 'http://i.imgur.com/PmfLrpB.jpg'
-CHAT_LINK = "https://t.me/+QDcTI221QRgwNzIy"
+WIN_IMAGE = 'https://imgur.com/a/haE1YPk'
+LOSE_IMG = 'https://imgur.com/a/XAPNAP4'
+CHAT_LINK = "https://t.me/+HyUZuurI1J1lYTgy"
 CHAT_MESSAGE_INTERVAL = 1200
 OFFLINE_DOLLAR = 92
-ERROR_CHAT_ID = -1002207071413
+ERROR_CHAT_ID = -1002286013793
 MAX_BET = 100
 
 bowling_values = {
