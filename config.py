@@ -2,7 +2,7 @@ CHANNEL_ID = -1002259707695  # Айди канала
 INVOICE_LINK = "https://t.me/send?start=IVNDZT8omLww"  #  Линк на инвойс
 RULES_LINK = "https://t.me/+TLwZWQ3CdA8wZjgy"  #  Линк на правила
 NEWS_LINK = "https://t.me/+JZqfUQfoBTdmMjQy"  #  Линк польз. соглашения
-SUPPORT_LINK = "https://t.me/Psixoz_dsgn"  #  Линк саппорта
+SUPPORT_LINK = "https://t.me/TokenBetSupport"  #  Линк саппорта
 FAQ_LINK = "https://t.me/+TLwZWQ3CdA8wZjgy" # FAQ
 CRYPTO_PAY_TOKEN = "270737:AAYvdRvpqAMjfA2mIPcXV39MVv4w7c7GWsl"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
 BOT_TOKEN = "7228460124:AAE3OEOG54pOsgSNEjGMpFWDz_lUiTIXguA"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
