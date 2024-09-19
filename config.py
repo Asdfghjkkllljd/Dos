@@ -1,18 +1,18 @@
-CHANNEL_ID = -1002259707695  # Айди канала
-INVOICE_LINK = "https://t.me/send?start=IVNDZT8omLww"  #  Линк на инвойс
-RULES_LINK = "https://t.me/+TLwZWQ3CdA8wZjgy"  #  Линк на правила
-NEWS_LINK = "https://t.me/+JZqfUQfoBTdmMjQy"  #  Линк польз. соглашения
+CHANNEL_ID = -1002325975835  # Айди канала
+INVOICE_LINK = "http://t.me/send?start=IV1hnxoSQRVu"  #  Линк на инвойс
+RULES_LINK = "https://t.me/+LkcEnS3Sgvo0OWU6"  #  Линк на правила
+NEWS_LINK = "https://t.me/+REYZLGuNvtQ3MzYy"  #  Линк польз. соглашения
 SUPPORT_LINK = "https://t.me/TokenBetSupport"  #  Линк саппорта
-FAQ_LINK = "https://t.me/+TLwZWQ3CdA8wZjgy" # FAQ
-CRYPTO_PAY_TOKEN = "270737:AAYvdRvpqAMjfA2mIPcXV39MVv4w7c7GWsl"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
-BOT_TOKEN = "7228460124:AAE3OEOG54pOsgSNEjGMpFWDz_lUiTIXguA"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
+FAQ_LINK = "https://t.me/+LkcEnS3Sgvo0OWU6" # FAQ
+CRYPTO_PAY_TOKEN = "271294:AAXMcX5qhd5ycwKpgQZ76AcygbrRZPvklGj"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
+BOT_TOKEN = "7337079214:AAF1KrP5ouDkjtx7ZhelgQJmolBnT8e-qI4"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
 SCAM_SUM = 5
 SCAM_SUM_WHEEL = 10
 SCAM_WHEEL = 0
-ADMIN_ID = 6859896269  # Айди админа
-ADMIN_SD = 6859896269
-NEWS_ID = -1002335354704  # Айди канала новостей
-VIPLAT_ID = -1002059587052
+ADMIN_ID = 7169453019  # Айди админа
+ADMIN_SD = 7169453019
+NEWS_ID = -1002400836725  # Айди канала новостей
+VIPLAT_ID = -1002229413091
 min_vivod = 1.1
 xamount_action = False
 kef = 2.8
@@ -27,10 +27,10 @@ kef_kub = 1.85
 kef_suefa = 2.5
 WIN_IMAGE = 'https://imgur.com/a/haE1YPk'
 LOSE_IMG = 'https://imgur.com/a/XAPNAP4'
-CHAT_LINK = "https://t.me/+HyUZuurI1J1lYTgy"
+CHAT_LINK = "https://t.me/+eZd8PXDOdnZlNjdi"
 CHAT_MESSAGE_INTERVAL = 1200
 OFFLINE_DOLLAR = 92
-ERROR_CHAT_ID = -1002286013793
+ERROR_CHAT_ID = -1002229413091
 MAX_BET = 100
 
 bowling_values = {
