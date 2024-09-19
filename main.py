@@ -37,7 +37,7 @@ async def handle_payment_error(user_id, user_name, amount, error_message):
     admin_message = f"Пользователю <a href='tg://user?id={user_id}'>{user_name}</a> [{user_id}] необходимо произвести ручной вывод средств в размере {amount} $ из-за ошибки: {error_message}"
     for admin_id in [config.ADMIN_ID, config.ADMIN_SD]:
         await bot.send_message(admin_id, admin_message)
-    await bot.send_message(user_id, "❌ Произошла ошибка при попытке вывода средств. Администрация уже уведомлена. Перешлите это сообщение @starwebb")
+    await bot.send_message(user_id, "❌ Произошла ошибка при попытке вывода средств. Администрация уже уведомлена. Перешлите это сообщение @TokenBetSupport")
 
 async def send_cash_with_error_handling(user_id, user_name, amount, transaction_id):
     try:
