@@ -523,9 +523,9 @@ async def about_us(msg: Message):
     keyboard = InlineKeyboardMarkup(row_width=2)
     keyboard.add(
         InlineKeyboardButton("👤 Администратор", url="https://t.me/TokenBetSupport"),
-        InlineKeyboardButton("💬 Чат", url="https://t.me/+HyUZuurI1J1lYTgy"),
-        InlineKeyboardButton("📰 Новостной канал", url="https://t.me/+JZqfUQfoBTdmMjQy"),
-        InlineKeyboardButton("🎲 Канал со ставками", url="https://t.me/+mWRp7c2ejus4MGRi")
+        InlineKeyboardButton("💬 Чат", url="https://t.me/+eZd8PXDOdnZlNjdi"),
+        InlineKeyboardButton("📰 Новостной канал", url="https://t.me/+REYZLGuNvtQ3MzYy"),
+        InlineKeyboardButton("🎲 Канал со ставками", url="https://t.me/+_NwDFc36udpkOGMy")
     )
 
     await msg.answer_photo(
