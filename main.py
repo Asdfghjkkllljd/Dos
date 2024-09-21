@@ -525,7 +525,7 @@ async def about_us(msg: Message):
         InlineKeyboardButton("👤 Администратор", url="https://t.me/TokenBetSupport"),
         InlineKeyboardButton("💬 Чат", url="https://t.me/+eZd8PXDOdnZlNjdi"),
         InlineKeyboardButton("📰 Новостной канал", url="https://t.me/+REYZLGuNvtQ3MzYy"),
-        InlineKeyboardButton("🎲 Канал со ставками", url="https://t.me/+_NwDFc36udpkOGMy")
+        InlineKeyboardButton("🎲 Канал со ставками", url="https://t.me/+VtXeCXh75FZlNGRi")
     )
 
     await msg.answer_photo(
