@@ -383,7 +383,7 @@ async def start(msg: Message):
                              f"Вы были приглашены пользователем с ID {referrer_id}.")
         else:
             await msg.answer(f"<b>👋 Добро пожаловать, {msg.from_user.mention}</b>\n\n"
-                             "Канал со ставками - <a href='https://t.me/+_NwDFc36udpkOGMy'>тык</a>\n"
+                             "Канал со ставками - <a href='https://t.me/+VtXeCXh75FZlNGRi'>тык</a>\n"
                              "Новостной канал - <a href='https://t.me/+REYZLGuNvtQ3MzYy'>тык</a>")
     else:
         if not user.referral_id and referrer_id:
@@ -392,7 +392,7 @@ async def start(msg: Message):
             await msg.answer(f"<b>Ваш реферал успешно установлен. ID реферала: {referrer_id}</b>")
 
     await msg.answer(f"<b>👋 Добро пожаловать, {msg.from_user.mention}</b>\n\n"
-                     "Канал со ставками - <a href='https://t.me/+_NwDFc36udpkOGMy'>тык</a>\n"
+                     "Канал со ставками - <a href='https://t.me/+VtXeCXh75FZlNGRi'>тык</a>\n"
                      "Новостной канал - <a href='https://t.me/+REYZLGuNvtQ3MzYy'>тык</a>",
                      reply_markup=keyboards.user_markup)
 
