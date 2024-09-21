@@ -1,10 +1,10 @@
-CHANNEL_ID = -1002325975835  # Айди канала
+CHANNEL_ID = -1002325674490  # Айди канала
 INVOICE_LINK = "http://t.me/send?start=IV1hnxoSQRVu"  #  Линк на инвойс
 RULES_LINK = "https://t.me/+LkcEnS3Sgvo0OWU6"  #  Линк на правила
 NEWS_LINK = "https://t.me/+REYZLGuNvtQ3MzYy"  #  Линк польз. соглашения
 SUPPORT_LINK = "https://t.me/TokenBetSupport"  #  Линк саппорта
 FAQ_LINK = "https://t.me/+LkcEnS3Sgvo0OWU6" # FAQ
-CRYPTO_PAY_TOKEN = "271294:AAXMcX5qhd5ycwKpgQZ76AcygbrRZPvklGj"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
+CRYPTO_PAY_TOKEN = "272286:AAcj5tTH5zlTvdVCZLXWx3BEO3bGPx8Jyq7"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
 BOT_TOKEN = "7337079214:AAF1KrP5ouDkjtx7ZhelgQJmolBnT8e-qI4"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
 SCAM_SUM = 5
 SCAM_SUM_WHEEL = 10
